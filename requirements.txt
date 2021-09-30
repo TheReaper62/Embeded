@@ -1,0 +1,4 @@
+requests==2.26.0
+py_cord==2.0.0a3974+gca8cb6d1
+beautifulsoup4==4.10.0
+discord==1.7.3
